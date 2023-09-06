@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kaveh8
+  - Angione-Lab
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - kaveh8/Starfish-Object-Detection
+  - kaveh8/AutoEncoder-DimensionalityReduction
+  - Kaveh8/Mask-RCNN-TF2
+  - Angione-Lab/Tutorials_Combining_ML_and_GSMM
